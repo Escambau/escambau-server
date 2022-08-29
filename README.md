@@ -35,5 +35,24 @@
     }
 }
 ```
-`POST /products - FORMATO DA RESQUISIÇÃO`
+`GET /products - FORMATO DA RESPOSTA`
+```json
+[
+    {
+        "id": 1,
+        "name": "Macbook Pro",
+        "price": 100,
+        "description": "This is product 1",
+        "image": "https://picsum.photos/200/300/?random",
+        "userId": 1
+    },
+    {
+        "id": 2,
+        "name": "Bicicleta Monark",
+        "price": 500,
+        "description": "This is product 2",
+        "image": "https://picsum.photos/200/300/?random",
+        "userId": 2
+    }
+]```
 
