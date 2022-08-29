@@ -12,7 +12,7 @@
   "license": "MIT",
   {
     "scripts": {
-      "start": "node server.js" : "nodemon server.js"
+      "start": "node server.js"
     }
   }
 }
