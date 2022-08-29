@@ -39,7 +39,7 @@
 }
 ```
 
-<h2 align ='center'> Cadastro de usuário </h2>
+<h2 align ='center'> Login </h2>
 
 `POST /login - FORMATO DA RESQUISIÇÃO`
 ```json
