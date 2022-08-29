@@ -82,3 +82,30 @@
     "id": 3
 }
 ```
+
+<h2 align ='center'> Atualização de produto </h2>
+
+`PUT /products/:id - FORMATO DA REQUISIÇÃO`
+```json
+{
+    "id": 1,
+    "name": "Macbook Pro 13",
+    "price": 300,
+    "description": "This is product 1",
+    "image": "https://picsum.photos/200/300/?random",
+    "userId": 1
+}
+```
+
+`PUT /products/:id - FORMATO DA RESPOSTA`
+```json
+{
+    "id": 1,
+    "name": "Macbook Pro 13",
+    "price": 300,
+    "description": "This is product 1",
+    "image": "https://picsum.photos/200/300/?random",
+    "userId": 1
+}
+```
+
