@@ -10,9 +10,7 @@
   "main": "index.js",
   "author": "shirator <carlito.elm78@gmail.com>",
   "license": "MIT",
-  {
     "scripts": {
       "start": "node server.js"
     }
-  }
 }
