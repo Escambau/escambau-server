@@ -5,11 +5,8 @@
 <p align="center">
   Esta API foi criada utilizando json-server para a criação da database e json-server-auth para utilização de tokens JWT
 </p>
-
-
-## Endpoints
  
-### Rotas que não precisam de autenticação:
+## Rotas que não precisam de autenticação:
 
 <h2 align ='center'> Cadastro de usuário </h2>
 
@@ -59,7 +56,7 @@
     }
 ]
 ```
-### Rotas que precisam de autenticação:
+## Rotas que precisam de autenticação:
 
 <h2 align ='center'> Cadastro de produto </h2>
 
