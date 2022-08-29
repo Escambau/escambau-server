@@ -39,6 +39,31 @@
 }
 ```
 
+<h2 align ='center'> Cadastro de usuário </h2>
+
+`POST /login - FORMATO DA RESQUISIÇÃO`
+```json
+{
+    "email": "mesquita@gmail.com",
+    "password": "12345"
+}
+```
+
+`POST /login - FORMATO DA RESPOSTA`
+```json
+{
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1lc3F1aXRhQGdtYWlsLmNvbSIsImlhdCI6MTY2MTgwNTQ4MSwiZXhwIjoxNjYxODA5MDgxLCJzdWIiOiIyIn0.gl9O96KY-SPkvgz2qcrkifO6V1bGFuJylnDN9kQKN-I",
+    "user": {
+        "email": "mesquita@gmail.com",
+        "id": 2,
+        "avatarUrl": "https://picsum.photos/200/300/?random",
+        "endereço": "Rua 0 ",
+        "cpf": "1239484-44",
+        "idade": 22
+    }
+}
+```
+
 <h2 align ='center'> Listagem de produtos </h2>
 
 `GET /products - FORMATO DA RESPOSTA`
