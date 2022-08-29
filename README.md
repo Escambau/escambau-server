@@ -20,7 +20,7 @@
     "password": "12345"
 }
 ```
-
+TOKEN EXPIRA EM 1 HORA.
 `POST /users - FORMATO DA RESPOSTA`
 ```json
 {
