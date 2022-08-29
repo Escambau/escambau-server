@@ -4,5 +4,15 @@
     "json-server": "^0.17.0",
     "json-server-auth": "^2.1.0",
     "nodemon": "^2.0.19"
+  },
+  "name": "escambau-json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "shirator <carlito.elm78@gmail.com>",
+  "license": "MIT",
+  {
+    "scripts": {
+      "start": "node server.js" : "nodemon server.js"
+    }
   }
 }
