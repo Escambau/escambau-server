@@ -35,6 +35,9 @@
     }
 }
 ```
+
+<h2 align ='center'> Listagem de produtos </h2>
+
 `GET /products - FORMATO DA RESPOSTA`
 ```json
 [
@@ -54,5 +57,13 @@
         "image": "https://picsum.photos/200/300/?random",
         "userId": 2
     }
-]```
+]
+```
+### Rotas que precisam de autenticação:
+#### Token bearer
+
+<h2 align ='center'> Cadastro de produto </h2>
+
+`POST /products - FORMATO DA REQUISIÇÃO`
+```json
 
