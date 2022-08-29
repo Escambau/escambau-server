@@ -16,7 +16,10 @@
     "name": "Carlos Mesquita"
     "email": "mesquita@gmail.com",
     "password": "12345"
-    "avatarUrl": "https://picsum.photos/200/300/?random"
+    "avatarUrl": "https://picsum.photos/200/300/?random",
+    "endereço": "Rua 0 ",
+    "cpf": "1239484-44",
+    "idade": 22
 }
 ```
 
@@ -28,7 +31,10 @@
         "email": "mesquita@gmail.com",
         "id": 2,
         "password": "12345",
-        "avatarUrl": "https://picsum.photos/200/300/?random"
+        "avatarUrl": "https://picsum.photos/200/300/?random",
+        "endereço": "Rua 0 ",
+        "cpf": "1239484-44",
+        "idade": 22
     }
 }
 ```
