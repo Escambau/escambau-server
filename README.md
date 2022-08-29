@@ -60,10 +60,28 @@
 ]
 ```
 ### Rotas que precisam de autenticação:
-#### Token bearer
 
 <h2 align ='center'> Cadastro de produto </h2>
 
 `POST /products - FORMATO DA REQUISIÇÃO`
 ```json
+{
+    "name": "Iphone Pro Max",
+    "price": 800,
+    "description": "This is an iphone",
+    "image": "https://picsum.photos/200/300/?random",
+    "userId": 1
+}
+```
 
+`POST /products - FORMATO DA RESPOSTA`
+```json
+{
+    "name": "Iphone Pro Max",
+    "price": 800,
+    "description": "This is an iphone",
+    "image": "https://picsum.photos/200/300/?random",
+    "userId": 1,
+    "id": 3
+}
+```
