@@ -5,6 +5,8 @@
 <p align="center">
   Esta API foi criada utilizando json-server para a criação da database e json-server-auth para utilização de tokens JWT
 </p>
+
+<h2> BASE URL: https://escambau-api.herokuapp.com </h2>
  
 ## Rotas que não precisam de autenticação:
 
