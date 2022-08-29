@@ -109,3 +109,11 @@
 }
 ```
 
+<h2 align ='center'> Deletar produto </h2>
+
+`DELETE /products/:id - FORMATO DA REQUISIÇÃO`
+```json
+{
+    "id": 1
+}
+```
