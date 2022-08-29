@@ -12,5 +12,6 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "repository": "git@github.com:Escambau/escambau-server.git"
 }

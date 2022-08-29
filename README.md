@@ -13,9 +13,9 @@
 `POST /users - FORMATO DA RESQUISIÇÃO`
 ```json
 {
-    "name": "Carlos Mesquita"
+    "name": "Carlos Mesquita",
     "email": "mesquita@gmail.com",
-    "password": "12345"
+    "password": "12345",
     "avatarUrl": "https://picsum.photos/200/300/?random",
     "endereço": "Rua 0 ",
     "cpf": "1239484-44",
@@ -74,6 +74,7 @@
         "name": "Macbook Pro",
         "price": 100,
         "description": "This is product 1",
+        "category": "Eletronic",
         "image": "https://picsum.photos/200/300/?random",
         "userId": 1
     },
@@ -82,6 +83,7 @@
         "name": "Bicicleta Monark",
         "price": 500,
         "description": "This is product 2",
+        "category": "Bicycle",
         "image": "https://picsum.photos/200/300/?random",
         "userId": 2
     }
