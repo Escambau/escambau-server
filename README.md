@@ -6,12 +6,13 @@
   Este é o backend aplicação Escambau - Uma plataforma virtual para troca de produtos! O objetivo da aplicação foi planejar, documentar e aplicar os conhecimentos obtidos durante o Módulo 3 da Escola Kenzie, utilizando hard e soft skills com trabalho em equipe.
 </p>
 
-<p><strong>Escambau</strong> é um projeto em conjunto dos seguintes membros:
-  Allan Salatino
-  Carlos Mesquita
-  José Ingleson Maciel
-  Natália Serrão
-  Paula Murta
+<p><strong>Escambau</strong> é um projeto em conjunto dos seguintes membros: 
+<ul>
+  <li>Allan Salatino</li>
+  <li>Carlos Mesquita</li>
+  <li>José Ingleson Maciel</li>
+  <li>Natália Serrão</li>
+  <li>Paula Murta</li>
 </p>
 
 <h2> A URL base da API é: https://escambau-api.herokuapp.com </h2>
