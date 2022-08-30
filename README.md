@@ -1,12 +1,21 @@
 <h1 align="center"> 
-  Escambau API 
+  Escambau - API 
 </h1>
 
 <p align="center">
-  Esta API foi criada utilizando json-server para a criação da database e json-server-auth para utilização de tokens JWT
+  Este é o backend da aplicação <strong>Escambau</strong> - Uma plataforma virtual para troca de produtos! O objetivo da aplicação foi planejar, documentar e aplicar os conhecimentos obtidos durante o Módulo 3 da Escola Kenzie, utilizando hard e soft skills com trabalho em equipe.
 </p>
 
-<h2> BASE URL: https://escambau-api.herokuapp.com </h2>
+<p><strong>Escambau</strong> é um projeto em conjunto dos seguintes membros: 
+<ul>
+  <li>Allan Salatino</li>
+  <li>Carlos Mesquita</li>
+  <li>José Ingleson Maciel</li>
+  <li>Natália Serrão</li>
+  <li>Paula Murta</li>
+</p>
+
+<h2> A URL base da API é: https://escambau-api.herokuapp.com </h2>
  
 ## Rotas que não precisam de autenticação:
 
@@ -91,6 +100,23 @@
     }
 ]
 ```
+
+<h2 align ='center'> Listagem de produtos de um usuário </h2>
+
+`GET /products?userId=2 - FORMATO DA RESPOSTA`
+```json
+[
+    {
+        "id": 2,
+        "name": "Bicicleta Monark",
+        "price": 500,
+        "description": "This is product 2",
+        "image": "https://picsum.photos/200/300/?random",
+        "userId": 2
+    }
+]
+```
+
 ## Rotas que precisam de autenticação:
 
 <h2 align ='center'> Cadastro de produto </h2>
