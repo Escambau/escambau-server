@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Este é o backend aplicação Escambau - Uma plataforma virtual para troca de produtos! O objetivo da aplicação foi planejar, documentar e aplicar os conhecimentos obtidos durante o Módulo 3 da Escola Kenzie, utilizando hard e soft skills com trabalho em equipe.
+  Este é o backend da aplicação <strong>Escambau</strong> - Uma plataforma virtual para troca de produtos! O objetivo da aplicação foi planejar, documentar e aplicar os conhecimentos obtidos durante o Módulo 3 da Escola Kenzie, utilizando hard e soft skills com trabalho em equipe.
 </p>
 
 <p><strong>Escambau</strong> é um projeto em conjunto dos seguintes membros: 
