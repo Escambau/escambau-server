@@ -91,6 +91,23 @@
     }
 ]
 ```
+
+<h2 align ='center'> Listagem de produtos de um usuário </h2>
+
+`GET /products?userId=2 - FORMATO DA RESPOSTA`
+```json
+[
+    {
+        "id": 2,
+        "name": "Bicicleta Monark",
+        "price": 500,
+        "description": "This is product 2",
+        "image": "https://picsum.photos/200/300/?random",
+        "userId": 2
+    }
+]
+```
+
 ## Rotas que precisam de autenticação:
 
 <h2 align ='center'> Cadastro de produto </h2>
