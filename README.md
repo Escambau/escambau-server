@@ -1,12 +1,12 @@
 <h1 align="center"> 
-  Escambau API 
+  Escambau - API 
 </h1>
 
 <p align="center">
-  Esta API foi criada utilizando json-server para a criação da database e json-server-auth para utilização de tokens JWT
+  Este é o backend aplicação Escambau - Uma plataforma virtual para troca de produtos! O objetivo da aplicação foi planejar, documentar e aplicar os conhecimentos obtidos durante o módulo 3, utilizando hard e soft skills com trabalho em equipe.
 </p>
 
-<h2> BASE URL: https://escambau-api.herokuapp.com </h2>
+<h2> A URL base da API é: https://escambau-api.herokuapp.com </h2>
  
 ## Rotas que não precisam de autenticação:
 
