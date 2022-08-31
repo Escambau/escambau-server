@@ -28,7 +28,8 @@
     "email": "mesquita@gmail.com",
     "password": "12345",
     "avatarUrl": "https://picsum.photos/200/300/?random",
-    "endereço": "Rua 0 ",
+    "cidade": "Manaus ",
+    "estado": "AM",
     "cpf": "1239484-44",
     "idade": 22
 }
@@ -43,7 +44,8 @@
         "id": 2,
         "password": "12345",
         "avatarUrl": "https://picsum.photos/200/300/?random",
-        "endereço": "Rua 0 ",
+        "cidade": "Manaus ",
+        "estado": "AM",
         "cpf": "1239484-44",
         "idade": 22
     }
@@ -68,7 +70,8 @@
         "email": "mesquita@gmail.com",
         "id": 2,
         "avatarUrl": "https://picsum.photos/200/300/?random",
-        "endereço": "Rua 0 ",
+        "cidade": "Manaus ",
+        "estado": "AM",
         "cpf": "1239484-44",
         "idade": 22
     }
