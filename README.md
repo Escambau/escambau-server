@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Este é o backend da aplicação <strong>Escambau</strong> - Uma plataforma virtual para troca de produtos! O objetivo da aplicação foi planejar, documentar e aplicar os conhecimentos obtidos durante o Módulo 3 da Escola Kenzie, utilizando hard e soft skills com trabalho em equipe.
+  Este é o backend da aplicação <strong>Escambau</strong> - Uma plataforma virtual para troca de produtos. O objetivo da aplicação foi planejar, documentar e aplicar os conhecimentos obtidos durante o Módulo 3 da Escola Kenzie, utilizando hard e soft skills com trabalho em equipe.
 </p>
 
 <p><strong>Escambau</strong> é um projeto em conjunto dos seguintes membros: 
@@ -15,7 +15,7 @@
   <li>Paula Murta</li>
 </p>
 
-<h2> A URL base da API é: https://escambau-api.herokuapp.com </h2>
+<h3> A URL base da API é: https://escambau-api.herokuapp.com </h3>
  
 ## Rotas que não precisam de autenticação:
 
@@ -28,13 +28,15 @@
     "email": "mesquita@gmail.com",
     "password": "12345",
     "avatarUrl": "https://picsum.photos/200/300/?random",
-    "endereço": "Rua 0 ",
+    "cidade": "Manaus ",
+    "estado": "AM",
     "cpf": "1239484-44",
     "idade": 22
 }
 ```
+<p> Caso dê tudo certo, a resposta será assim: </p>
 
-`POST /users - FORMATO DA RESPOSTA`
+`POST /users - FORMATO DA RESPOSTA - STATUS 201`
 ```json
 {
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1lc3F1aXRhQGdtYWlsLmNvbSIsImlhdCI6MTY2MTgwMjk1NywiZXhwIjoxNjYxODA2NTU3LCJzdWIiOiIyIn0.w4_2qnVK9eNGX8M_4hG3YOUmpJc2YkmPKqx7-M8Kdl0",
@@ -43,7 +45,8 @@
         "id": 2,
         "password": "12345",
         "avatarUrl": "https://picsum.photos/200/300/?random",
-        "endereço": "Rua 0 ",
+        "cidade": "Manaus ",
+        "estado": "AM",
         "cpf": "1239484-44",
         "idade": 22
     }
@@ -59,6 +62,7 @@
     "password": "12345"
 }
 ```
+<p> Caso dê tudo certo, a resposta será assim: </p>
 
 `POST /login - FORMATO DA RESPOSTA`
 ```json
@@ -68,7 +72,8 @@
         "email": "mesquita@gmail.com",
         "id": 2,
         "avatarUrl": "https://picsum.photos/200/300/?random",
-        "endereço": "Rua 0 ",
+        "cidade": "Manaus ",
+        "estado": "AM",
         "cpf": "1239484-44",
         "idade": 22
     }
@@ -77,7 +82,9 @@
 
 <h2 align ='center'> Listagem de produtos </h2>
 
-`GET /products - FORMATO DA RESPOSTA`
+<p>Nessa aplicação o usuário sem fazer login ou se cadastrar pode ver os produtos cadastrados na plataforma.</p>
+
+`GET /products - FORMATO DA RESPOSTA - STATUS 200 `
 ```json
 [
     {
