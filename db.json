@@ -1,5 +1,61 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "paulosilva@gmail.com",
+      "password": "$2a$10$FOlvLaDhrr5t.cBOZ6CxYu8eYAaBtSezk43cleHWaIzYYMybB8Tpu",
+      "name": "Paulo Silva",
+      "avatarUrl": "https://i.pinimg.com/550x/b1/9a/17/b19a17f28f4e0b7641ef62d8690f7dd5.jpg",
+      "cidade": "Manaus ",
+      "estado": "Amazonas",
+      "cpf": "12345678900",
+      "idade": 30,
+      "id": 1
+    },
+    {
+      "email": "jessica-dias95@gmail.com",
+      "password": "$2a$10$9exFqiXnvM1zx8f8b3ckSONPkq2b.ufRrs8Juj/f0ZgymMU4hkB4.",
+      "name": "Jéssica Amanda Dias",
+      "avatarUrl": "https://img.freepik.com/fotos-gratis/pessoa-mulher-sorrindo-estudio-retrato_1303-2281.jpg?w=2000",
+      "cidade": "Maceió ",
+      "estado": "Alagoas",
+      "cpf": "57241147634",
+      "idade": 25,
+      "id": 2
+    },
+    {
+      "email": "caue.jose.moreira@giltelhas.com.br",
+      "password": "$2a$10$Pr77RI4rb.QLqMAfOFTL.OySUg0a5c1G9AV62hvZbGdw7yjYroe9O",
+      "name": "Cauê José Vinicius Moreira",
+      "idade": 34,
+      "cpf": "92036635253",
+      "cidade": "Porto Alegre",
+      "estado": "Rio Grande do Sul",
+      "avatarUrl": "https://i.pinimg.com/736x/03/d3/86/03d386d8b7da2b2279f8df5b8f065446.jpg",
+      "id": 3
+    },
+    {
+      "email": "erickpietrocosta@fingrs.com.br",
+      "password": "$2a$10$7ETZvFOb8NRQVgGNPEk4eOYqtTGUYPGLAnxY0A4sF3.74nFhc1wki",
+      "name": "Erick Pietro Cláudio Costa",
+      "idade": 74,
+      "cpf": "75505116329",
+      "cidade": "Londrina",
+      "estado": "Paraná",
+      "avatarUrl": "https://thumbs.dreamstime.com/b/homem-idoso-idoso-24922472.jpg",
+      "id": 4
+    },
+    {
+      "email": "yasminsandrateixeira@vianetfone.com.br",
+      "password": "$2a$10$XqfR0rr2sFC1jovJ4yJTpuAFN7J7UOCdiG2HLSfkatWRDcBqMPrs6",
+      "name": "Yasmin Sandra Emilly Teixeira",
+      "idade": 21,
+      "cpf": "94447591804",
+      "cidade": "Natal",
+      "estado": "Rio Grande do Norte",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2019/03/05/16/20/girl-4036509_960_720.jpg",
+      "id": 5
+    }
+  ],
   "products": [],
   "has_interest": []
 }
