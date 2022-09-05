@@ -56,6 +56,257 @@
       "id": 5
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "name": "Luminária Lua Cheia",
+      "price": 30,
+      "description": "Meu gato não gostou do arranhador, o produto foi utilizado apenas algumas vezes.",
+      "category": "Decoração",
+      "preferences": "Roupas e Difusores",
+      "image": " https://cdn.leroymerlin.com.br/products/luminaria_lua_cheia_3d_15cm_base_madeira_5_cores_de_ilumi_1566761686_af60_600x600.png",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Cadeira Gamer",
+      "price": 600,
+      "description": "Cadeira gamer, pouco tempo de uso, comprei na bemol, quando comprei estava na faixa de 1.396,00. Estou vendendo pois ela está parada, sem uso, vindo buscar dou DESCONTO, mando mais fotos e vídeos pelo WhatsApp.",
+      "category": "Utensílios Domésticos",
+      "preferences": "Produtos Eletrônicos",
+      "image": "https://img.olx.com.br/images/40/401237206777004.jpg",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Copo Stanley",
+      "price": 100,
+      "description": " Bebida Gelada até o último gole. Tampa contra derramamento e sujeiras.",
+      "category": "Utensílios Domésticos",
+      "preferences": "Decoração",
+      "image": "https://img.olx.com.br/images/40/408243683460180.jpg",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Papel de parede",
+      "price": 45,
+      "description": "Papel de parede autoadesivo e resistente à água.",
+      "category": "Decoração",
+      "preferences": "Utensílios Domésticos",
+      "image": "https://img.olx.com.br/images/40/403201088704986.jpg",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "name": "Jaqueta de couro",
+      "price": 70,
+      "description": "Jaqueta de couro Tamanho G pequeno, sem nenhuma marca de uso.",
+      "category": "Roupas",
+      "preferences": "Roupas",
+      "image": "https://img.olx.com.br/images/38/383206563091005.jpg",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "Carrinho de controle remoto",
+      "price": 90,
+      "description": "Carrinho praticamente novo, com apenas 2 meses de uso. Acompanha controle remoto e bateria recarregável.",
+      "category": "Brinquedos",
+      "preferences": "Roupas",
+      "image": "https://img.olx.com.br/images/22/224280434029500.jpg",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "name": "iPhone 11 128GB",
+      "price": 3990,
+      "description": "Celular Apple iPhone 11 128GB 4G Tela 6.1 iOS 13 Câmera 12MP - Preto - Desbloqueado",
+      "category": "Eletrônicos e Eletrodomésticos",
+      "preferences": "Instrumentos Musicais",
+      "image": "https://img.olx.com.br/images/40/407224447743661.jpg",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "name": "Calça jeans",
+      "price": 30,
+      "description": "Calça Jeans com lavagem escura",
+      "category": "Roupas",
+      "preferences": "Decoração",
+      "image": "https://img.olx.com.br/images/30/306247438774450.jpg",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "Panela Elétrica Grill",
+      "price": 185,
+      "description": " Panela Elétrica Grill da marca Multilaser Gourmet Antiaderente.",
+      "category": "Utensílios Domésticos",
+      "preferences": "Brinquedos",
+      "image": "https://img.olx.com.br/images/19/199221793826207.jpg",
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "name": "Violão Tagima Dallas (corda de aço)",
+      "price": 280,
+      "description": "Este violão é elétrico, mas é necessário levar a um luthier para consertar a parte elétrica e trocar a pestana;",
+      "category": "Instrumentos Musicais",
+      "preferences": "Eletrônicos e Eletrodomésticos",
+      "image": "https://img.olx.com.br/images/37/379234920118682.jpg",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "Livro It: a coisa",
+      "price": 45,
+      "description": "Quantidade de páginas: 1104 Sem a embalagem, mas está novo",
+      "category": "Entretenimento",
+      "preferences": "Decoração",
+      "image": "https://img.olx.com.br/images/93/935206426039375.jpg",
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "name": "Coleira - cães de pequeno porte",
+      "price": 25,
+      "description": "Coleira peitoral para cachorro de pequeno porte",
+      "category": "Pets",
+      "preferences": "Pets",
+      "image": "https://img.olx.com.br/images/40/401229561451377.jpg",
+      "userId": 3,
+      "id": 12
+    },
+    {
+      "name": "Camiseta piloto de Helicoptero vhd r66 blueprint by interlakes",
+      "price": 66,
+      "description": "Tamanho P e pouco tempo de uso (2 meses)",
+      "category": "Roupas",
+      "preferences": "Utensílios Domésticos",
+      "image": "https://img.olx.com.br/images/40/400252200940742.jpg",
+      "userId": 3,
+      "id": 13
+    },
+    {
+      "name": "Decoração Quebra Nozes",
+      "price": 200,
+      "description": "Em perfeito estado de conservação",
+      "category": "Decoração",
+      "preferences": "Brinquedos",
+      "image": "https://img.olx.com.br/images/40/407297447839774.jpg",
+      "userId": 3,
+      "id": 14
+    },
+    {
+      "name": "Som Automotivo",
+      "price": 130,
+      "description": "Com BLUETOOTH - MP3 - USB - SD CARD",
+      "category": "Automotivos",
+      "preferences": "Brinquedos",
+      "image": "https://img.olx.com.br/images/29/293258316736525.jpg",
+      "userId": 3,
+      "id": 15
+    },
+    {
+      "name": "Violão Tagima Dallas (corda de aço)",
+      "price": 280,
+      "description": "Este violão é elétrico, mas é necessário levar a um luthier para consertar a parte elétrica e trocar a pestana;",
+      "category": "Instrumentos Musicais",
+      "preferences": "Eletrônicos e Eletrodomésticos",
+      "image": "https://img.olx.com.br/images/37/379234920118682.jpg",
+      "userId": 4,
+      "id": 16
+    },
+    {
+      "name": "Papel de parede",
+      "price": 45,
+      "description": "Papel de parede autoadesivo e resistente à água.",
+      "category": "Decoração",
+      "preferences": "Utensílios Domésticos",
+      "image": "https://img.olx.com.br/images/40/403201088704986.jpg",
+      "userId": 4,
+      "id": 17
+    },
+    {
+      "name": "Luminária Lua Cheia",
+      "price": 30,
+      "description": "Meu gato não gostou do arranhador, o produto foi utilizado apenas algumas vezes.",
+      "category": "Decoração",
+      "preferences": "Roupas e Difusores",
+      "image": " https://cdn.leroymerlin.com.br/products/luminaria_lua_cheia_3d_15cm_base_madeira_5_cores_de_ilumi_1566761686_af60_600x600.png",
+      "userId": 4,
+      "id": 18
+    },
+    {
+      "name": "Panela Elétrica Grill",
+      "price": 185,
+      "description": " Panela Elétrica Grill da marca Multilaser Gourmet Antiaderente.",
+      "category": "Utensílios Domésticos",
+      "preferences": "Brinquedos",
+      "image": "https://img.olx.com.br/images/19/199221793826207.jpg",
+      "userId": 4,
+      "id": 19
+    },
+    {
+      "name": "Livro It: a coisa",
+      "price": 45,
+      "description": "Quantidade de páginas: 1104 Sem a embalagem, mas está novo",
+      "category": "Entretenimento",
+      "preferences": "Decoração",
+      "image": "https://img.olx.com.br/images/93/935206426039375.jpg",
+      "userId": 4,
+      "id": 20
+    },
+    {
+      "name": "Cadeira Gamer",
+      "price": 600,
+      "description": "Cadeira gamer, pouco tempo de uso, comprei na bemol, quando comprei estava na faixa de 1.396,00. Estou vendendo pois ela está parada, sem uso, vindo buscar dou DESCONTO, mando mais fotos e vídeos pelo WhatsApp.",
+      "category": "Utensílios Domésticos",
+      "preferences": "Produtos Eletrônicos",
+      "image": "https://img.olx.com.br/images/40/401237206777004.jpg",
+      "userId": 5,
+      "id": 21
+    },
+    {
+      "name": "Copo Stanley",
+      "price": 100,
+      "description": " Bebida Gelada até o último gole. Tampa contra derramamento e sujeiras.",
+      "category": "Utensílios Domésticos",
+      "preferences": "Decoração",
+      "image": "https://img.olx.com.br/images/40/408243683460180.jpg",
+      "userId": 5,
+      "id": 22
+    },
+    {
+      "name": "Jaqueta de couro",
+      "price": 70,
+      "description": "Jaqueta de couro Tamanho G pequeno, sem nenhuma marca de uso.",
+      "category": "Roupas",
+      "preferences": "Roupas",
+      "image": "https://img.olx.com.br/images/38/383206563091005.jpg",
+      "userId": 5,
+      "id": 23
+    },
+    {
+      "name": "iPhone 11 128GB",
+      "price": 3990,
+      "description": "Celular Apple iPhone 11 128GB 4G Tela 6.1 iOS 13 Câmera 12MP - Preto - Desbloqueado",
+      "category": "Eletrônicos e Eletrodomésticos",
+      "preferences": "Instrumentos Musicais",
+      "image": "https://img.olx.com.br/images/40/407224447743661.jpg",
+      "userId": 5,
+      "id": 24
+    },
+    {
+      "name": "Panela Elétrica Grill",
+      "price": 185,
+      "description": " Panela Elétrica Grill da marca Multilaser Gourmet Antiaderente.",
+      "category": "Utensílios Domésticos",
+      "preferences": "Brinquedos",
+      "image": "https://img.olx.com.br/images/19/199221793826207.jpg",
+      "userId": 5,
+      "id": 25
+    }
+  ],
   "has_interest": []
 }
